@@ -1,0 +1,9 @@
+server:
+  port: 1012
+datasource:
+  host: 127.0.0.1
+  port: 3306
+  database: mkustar
+  username: root
+  password: root
+  charset: utf8
